@@ -411,6 +411,3 @@ Cleaned dataset saved as 'heartdisease_cleaned.csv'. Final shape: (250, 17)
 
 Thus, data cleaning and preprocessing on the heart disease dataset (`heartdisease.csv`) was executed successfully, and the cleaned dataset was saved as `heartdisease_cleaned.csv`.
 
-## Result
-
-<< Enter the program execution result>>
